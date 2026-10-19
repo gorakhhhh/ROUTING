@@ -1,4 +1,3 @@
-# routing
 # Cisco Routing Practical Guide – CCNA
 
 Welcome to my Cisco Routing practical repository! 🚀
